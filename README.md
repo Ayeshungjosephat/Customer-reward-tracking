@@ -4,7 +4,7 @@ SQL script to analyze user gold coin earnings, usage, and balance over time.
 
 ## 📂 Script Overview
 
-**Script:** [`scripts/user_gold_coin_summary.sql`](scripts/user_gold_coin_summary.sql)
+**Script:** [`scripts/customer_reward.sql`](https://github.com/Ayeshungjosephat/Customer-reward-tracking/blob/main/customer%20reward.sql)
 
 This query provides:
 
